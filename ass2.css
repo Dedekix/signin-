@@ -26,8 +26,8 @@ nav{
     margin-bottom: 20px;
     display: flex;
     border-radius: 10px;
-    width: 480px;
-    height: 20px;
+    width: 510px;
+    height: 50px;
     justify-content: center;
 }
 input[type="text"]{
@@ -35,13 +35,13 @@ input[type="text"]{
     height : 40px;
 border-radius: 5px;
 display: block;
-border-color: red;
+
 }
 input[type="password"]{
     width : 500px;
     height : 40px;
 border-radius: 5px;
-border-color: red;
+
 /* display: block;
 margin-top: 200px; */
 }
